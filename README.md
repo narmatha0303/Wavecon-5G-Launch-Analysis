@@ -67,8 +67,13 @@ New plans P11-P13 generated approximately INR 3,336 million after the launch. Th
 
 [View the 10-slide stakeholder presentation (PDF)](Wavecon_5G_Presentation.pdf)
 
-The presentation recording will be added separately.
+
 
 ## Data source
 
 Wavecon dashboard supplied for Codebasics Virtual Internship, Week 2, Task 4. This is an educational case study. Source dashboard and course materials belong to their respective owners.
+
+
+## Presentation recording
+
+[Watch the stakeholder presentation](https://drive.google.com/file/d/19gUbjtMsyoYJvnFX6w6Tm7A0lqiipRFj/view?usp=sharing)
