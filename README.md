@@ -77,3 +77,10 @@ Wavecon dashboard supplied for Codebasics Virtual Internship, Week 2, Task 4. Th
 ## Presentation recording
 
 [Watch the stakeholder presentation](https://drive.google.com/file/d/1eUpzMj9eL6ktqgS5JCM4eYPCPfnlL9nD/view?usp=sharing)
+
+
+## Live dashboard
+
+[View the interactive dashboard used in this analysis](https://app.powerbi.com/view?r=eyJrIjoiODIyZTlkOTYtNGRmNi00NGQ4LTg4NzUtMzBhMGNjOTJiNDQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+The dashboard was supplied for the assignment. My work covers the analysis, findings and stakeholder presentation.
