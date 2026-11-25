@@ -76,4 +76,4 @@ Wavecon dashboard supplied for Codebasics Virtual Internship, Week 2, Task 4. Th
 
 ## Presentation recording
 
-[Watch the stakeholder presentation](https://drive.google.com/file/d/19gUbjtMsyoYJvnFX6w6Tm7A0lqiipRFj/view?usp=sharing)
+[Watch the stakeholder presentation]([https://drive.google.com/file/d/19gUbjtMsyoYJvnFX6w6Tm7A0lqiipRFj/view?usp=sharing](https://drive.google.com/file/d/1eUpzMj9eL6ktqgS5JCM4eYPCPfnlL9nD/view?usp=sharing))
